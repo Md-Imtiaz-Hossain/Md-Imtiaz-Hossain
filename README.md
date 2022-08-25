@@ -1,5 +1,5 @@
 <div align="center">
-<br />
+
 <h2> Hi there I'm Md Imtiaz Hossain 👋 <br>
 Welcome to my Github profile!</h2>
 <br />
@@ -15,9 +15,8 @@ Welcome to my Github profile!</h2>
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at imtiaz005123@gmail.com ! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/11XUuzuG_XYl-jUxhxVsnXyIeO51ixZaB/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -65,26 +64,19 @@ Welcome to my Github profile!</h2>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Md-Imtiaz-Hossain&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
 <br />
-<br />
+
 
 <br />
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Imtiaz-Hossain&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
-<br />
 
 **Happy Coding!** 😊
 
 </div>
 
 
-
-
 <div align="center">
 
 ## 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
 <a href="https://sites.google.com/view/mdimtiazhossaintechy5/home"><img src="https://img.shields.io/badge/-imtiaz.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/md-imtiaz-hossain-0969a31a2/"><img src="https://img.shields.io/badge/-Md%20Imtiaz%20Hossain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
